@@ -168,7 +168,7 @@ export const research = {
     "Formulated a rigorous wave-geometric proof using Fourier boundaries to demonstrate that a single discrete quantum state occupies an indivisible, minimum phase space area, establishing a physical limit to state density resolution.",
   ],
   preprintUrl:
-    "https://github.com/bytemir/Independent-Research-Preprints/blob/main/Theoretical%20Physics/Quantum%20Resolution_%20The%20Physical%20Significance%20of%20%E2%84%8F.pdf",
+    "https://github.com/bytemir/Research-Projects/blob/main/Theoretical%20Physics/Quantum%20Resolution_%20The%20Physical%20Significance%20of%20%E2%84%8F.pdf",
 };
 
 export const education = {

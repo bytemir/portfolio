@@ -11,7 +11,8 @@ export default function Research() {
       <div className="mx-auto max-w-6xl">
         <SectionHeading
           label="Independent Research"
-          title="Preprints"
+          title="My Research Projects"
+          description="A collection of topics, of which I found interesting, that I have written about in a Research Style format."
         />
 
         <motion.article
@@ -26,7 +27,7 @@ export default function Research() {
           <div className="border-b border-border px-8 py-5">
             <div className="flex flex-wrap items-center gap-3">
               <span className="rounded border border-border bg-surface px-2 py-0.5 font-mono text-[10px] uppercase tracking-widest text-muted">
-                Preprint
+                Research Project
               </span>
               <span className="font-mono text-xs text-accent/70">
                 {research.focus}
@@ -91,7 +92,7 @@ export default function Research() {
                 className="group inline-flex items-center gap-3 rounded-lg border border-accent/30 bg-accent/10 px-6 py-3 font-mono text-sm text-accent transition-all hover:border-accent/50 hover:bg-accent/20"
               >
                 <FileText className="h-4 w-4" />
-                Read Preprint PDF
+                Read Paper PDF
                 <motion.span
                   className="inline-block"
                   animate={{ x: [0, 4, 0] }}
