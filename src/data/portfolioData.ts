@@ -2,9 +2,9 @@ export const personalInfo = {
   name: "Emir Alam",
   handle: "emiralam",
   headline: "Physics & Systems",
-  subheadline: "Physics @ BSc (Hons) | Low-Level Systems Architect",
+  subheadline: "Physics @ BSc (Hons) | Low-Level Systems",
   tagline:
-    "Building from first principles — from quantum wavefunctions to custom ISAs.",
+    "Developing Software for over a decade.",
   technicalTagline: "Systems · Physics · Low-Level",
   email: "contact@bytemir.dev",
   github: "https://github.com/bytemir",

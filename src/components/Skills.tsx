@@ -16,8 +16,7 @@ export default function Skills() {
       <div className="mx-auto max-w-6xl">
         <SectionHeading
           label="02 — Technical Stack"
-          title="System Architecture Terminal"
-          description="Low-level systems engineering across hardware simulation, custom toolchains, and infrastructure."
+          title="System Architecture"
         />
 
         <TerminalWindow title="sysarch — zsh — 80×24">

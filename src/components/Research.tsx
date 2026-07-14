@@ -12,7 +12,6 @@ export default function Research() {
         <SectionHeading
           label="04 — Independent Research"
           title="Preprints & Publications"
-          description="Theoretical investigations at the intersection of quantum mechanics and geometric phase space."
         />
 
         <motion.article

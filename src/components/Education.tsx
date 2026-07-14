@@ -13,7 +13,6 @@ export default function Education() {
         <SectionHeading
           label="05 — Academic Path"
           title="Education"
-          description="Rigorous physics training with a trajectory toward First Class Honours."
         />
 
         <motion.div

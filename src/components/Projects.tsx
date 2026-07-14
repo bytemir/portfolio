@@ -126,7 +126,7 @@ export default function Projects() {
       <div className="relative mx-auto max-w-6xl">
         <SectionHeading
           label="03 — Selected Work"
-          title="Engineering Projects"
+          title="My Projects"
           description="From custom CPU architectures to quantum visualizers — systems built from the metal up."
         />
 

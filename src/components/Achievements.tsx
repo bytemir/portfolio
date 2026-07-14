@@ -89,7 +89,6 @@ export default function Achievements() {
         <SectionHeading
           label="06 — Beyond Code"
           title="Achievements & Interests"
-          description="Discipline, strategy, and rapid prototyping outside the terminal."
         />
 
         <div className="grid gap-4 md:grid-cols-3">
