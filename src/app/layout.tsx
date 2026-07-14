@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Emir Alam | Systems · Physics · Low-Level",
+  title: "Emir Alam | Portfolio",
   description:
-    "Physics student and low-level systems developer. Custom ISAs, emulators, compilers, and quantum mechanics visualizers — built from first principles.",
+    "Physics student and low-level systems developer. Developing Custom ISAs, emulators, compilers, and quantum mechanics visualizers.",
   keywords: [
     "physics",
     "systems programming",
@@ -25,9 +25,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Emir Alam" }],
   openGraph: {
-    title: "Emir Alam | Systems · Physics · Low-Level",
+    title: "Emir Alam | Portfolio",
     description:
-      "Building from first principles — from quantum wavefunctions to custom ISAs.",
+      "Physics student and low-level systems developer. Developing Custom ISAs, emulators, compilers, and quantum mechanics visualizers.",
     type: "website",
   },
 };

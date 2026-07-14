@@ -87,7 +87,7 @@ export default function Achievements() {
     <section id="achievements" className="relative px-6 py-24">
       <div className="mx-auto max-w-6xl">
         <SectionHeading
-          label="06 — Beyond Code"
+          label="Beyond Programming"
           title="Achievements & Interests"
         />
 

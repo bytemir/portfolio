@@ -174,7 +174,7 @@ export const research = {
 export const education = {
   degree: "Bachelor of Science (Hons) in Physics",
   expectedGraduation: "2029",
-  status: "Completed Academic Year 1 (On track to First Class Honours)",
+  status: "Completed Academic Year 1 | On track to First Class Honours",
 };
 
 export const achievements = {
@@ -186,12 +186,12 @@ export const achievements = {
   strategic: {
     title: "Strategic Interests",
     description:
-      "Chess and team-based strategy games — pattern recognition, positional play, and long-horizon planning.",
+      "Chess and team-based strategy games. Focusing on tactical pattern recognition, real time resource management, and execution of complex collaborative strategies.",
   },
   hackathons: {
     title: "Hackathons",
     description:
-      "Active competitor. Participated in United Hacks V7, collaborating in a 48-hour sprint to prototype a functional hardware/software project.",
+      "Active competitor. Participated in United Hacks V7, collaborating in a 48-hour sprint to prototype a functional software project.",
   },
 };
 
