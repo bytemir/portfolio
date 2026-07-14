@@ -12,7 +12,6 @@ export default function Research() {
         <SectionHeading
           label="Independent Research"
           title="My Research Projects"
-          description="A collection of topics, of which I found interesting, that I have written about in a Research Style format."
         />
 
         <motion.article
