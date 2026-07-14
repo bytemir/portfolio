@@ -15,7 +15,7 @@ export default function Skills() {
     <section id="skills" className="relative px-6 py-24">
       <div className="mx-auto max-w-6xl">
         <SectionHeading
-          label="02 — Technical Stack"
+          label="Technical Stack"
           title="System Architecture"
         />
 

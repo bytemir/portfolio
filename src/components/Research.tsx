@@ -10,8 +10,8 @@ export default function Research() {
     <section id="research" className="relative px-6 py-24">
       <div className="mx-auto max-w-6xl">
         <SectionHeading
-          label="04 — Independent Research"
-          title="Preprints & Publications"
+          label="Independent Research"
+          title="Preprints"
         />
 
         <motion.article

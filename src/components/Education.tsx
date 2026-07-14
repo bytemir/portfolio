@@ -11,7 +11,7 @@ export default function Education() {
       <div className="absolute inset-0 grid-bg opacity-15" />
       <div className="relative mx-auto max-w-6xl">
         <SectionHeading
-          label="05 — Academic Path"
+          label="Academic Path"
           title="Education"
         />
 
